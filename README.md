@@ -6,19 +6,35 @@ A Kindle-inspired PDF reader for Android, built with Flutter. Import any PDF fro
 
 ## Screenshots
 
-<p align="center">
-  <img src="screenshots/1_library.png" width="22%" alt="Library"/>
-  &nbsp;&nbsp;
-  <img src="screenshots/2_reader.png" width="22%" alt="Reader"/>
-  &nbsp;&nbsp;
-  <img src="screenshots/3_insights.png" width="22%" alt="Page Insights"/>
-  &nbsp;&nbsp;
-  <img src="screenshots/4_keypoints.png" width="22%" alt="Key Points"/>
-</p>
-
-<p align="center">
-  <img src="screenshots/5_highlights.png" width="22%" alt="Highlights"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="screenshots/1_library.png" width="180" alt="Library"/><br/>
+        <sub><b>Library</b></sub>
+      </td>
+      <td align="center">
+        <img src="screenshots/2_reader.png" width="180" alt="Reader"/><br/>
+        <sub><b>Reader</b></sub>
+      </td>
+      <td align="center">
+        <img src="screenshots/3_insights.png" width="180" alt="Page Insights"/><br/>
+        <sub><b>Page Insights</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="screenshots/4_keypoints.png" width="180" alt="Key Points"/><br/>
+        <sub><b>Key Points</b></sub>
+      </td>
+      <td align="center">
+        <img src="screenshots/5_highlights.png" width="180" alt="Highlights"/><br/>
+        <sub><b>Highlights</b></sub>
+      </td>
+      <td></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
