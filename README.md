@@ -4,6 +4,24 @@ A Kindle-inspired PDF reader for Android, built with Flutter. Import any PDF fro
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/1_library.png" width="22%" alt="Library"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/2_reader.png" width="22%" alt="Reader"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/3_insights.png" width="22%" alt="Page Insights"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/4_keypoints.png" width="22%" alt="Key Points"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/5_highlights.png" width="22%" alt="Highlights"/>
+</p>
+
+---
+
 ## Features
 
 | | Feature | Description |
