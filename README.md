@@ -6,36 +6,32 @@ A Kindle-inspired PDF reader for Android, built with Flutter. Import any PDF fro
 
 ## Screenshots
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="screenshots/1_library.png" width="220" alt="Library"/><br/>
-        <sub><b>Library</b></sub>
-      </td>
-      <td align="center">
-        <img src="screenshots/2_reader.png" width="220" alt="Reader"/><br/>
-        <sub><b>Reader</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="screenshots/3_insights.png" width="220" alt="Page Insights"/><br/>
-        <sub><b>Page Insights — Summary</b></sub>
-      </td>
-      <td align="center">
-        <img src="screenshots/4_keypoints.png" width="220" alt="Key Points"/><br/>
-        <sub><b>Page Insights — Key Points</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <img src="screenshots/5_highlights.png" width="220" alt="Highlights"/><br/>
-        <sub><b>Highlights</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/1_library.png" width="200" alt="Library"/><br/>
+      <sub><b>Library</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/2_reader.png" width="200" alt="Reader"/><br/>
+      <sub><b>Reader</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/3_insights.png" width="200" alt="Page Insights"/><br/>
+      <sub><b>Page Insights — Summary</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/4_keypoints.png" width="200" alt="Key Points"/><br/>
+      <sub><b>Page Insights — Key Points</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/5_highlights.png" width="200" alt="Highlights"/><br/>
+      <sub><b>Highlights</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
