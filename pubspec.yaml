@@ -1,0 +1,54 @@
+name: bookshelf
+description: A Kindle-like PDF reader for Android with highlights and bookmarks.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # PDF Viewer — best format coverage + built-in annotation support
+  syncfusion_flutter_pdfviewer: ^27.1.50
+  syncfusion_flutter_pdf: ^27.1.50
+
+  # File picking & storage
+  file_picker: ^8.1.2
+  path_provider: ^2.1.3
+  path: ^1.9.0
+
+  # Local database for books, highlights, bookmarks
+  sqflite: ^2.3.3+1
+
+  # State management
+  provider: ^6.1.2
+
+  # UI extras
+  google_fonts: ^6.2.1
+  flutter_animate: ^4.5.0
+  flutter_svg: ^2.0.10+1
+
+  # Utilities
+  shared_preferences: ^2.3.2
+  intl: ^0.19.0
+  uuid: ^4.4.2
+  permission_handler: ^11.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.14.3
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/images/app_icon.png"
+  min_sdk_android: 21
